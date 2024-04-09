@@ -8,4 +8,4 @@ Neste desafio, recriei uma aplicação com base em um layout fornecido no Figma.
 
 Como desafio extra, adicionei um Favicon à aplicação para uma melhor experiência do usuário.
 
-Dê uma olhada no meu projeto, hospedado no Vercel: https://desafio-intermediario-fecriando-layout.vercel.app/
+Dê uma olhada no meu projeto, hospedado no Vercel: https://desafio-intermediario-recriando-layout.vercel.app/
